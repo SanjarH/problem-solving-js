@@ -1,4 +1,3 @@
-
 // 1. Write a function that takes in a string and returns the string with all vowels removed.
 
 //1 solution N1

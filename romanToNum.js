@@ -36,3 +36,4 @@ function romanToInt(s) {
 // check
 console.log(romanToInt('LVIII')) // output -> 58
 console.log(romanToInt('MCMXCIV')) // output -> 1994
+console.log(romanToInt('CXXXIII'))
